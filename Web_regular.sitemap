@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="" >
+    <siteMapNode url="home_aal.aspx " title="Home"  description="Regestering new user">
+      <siteMapNode url="profile_aal.aspx" title="Profile" description="Profile Information"/>
+      <siteMapNode url="query_aal.aspx" title="Query" description="Quries"/>
+      <siteMapNode url="services_aal.aspx" title="Service" />
+      <siteMapNode url="vision_aal.aspx" title="Vision"/>
+    </siteMapNode>
+
+    <siteMapNode url="registration_aal.aspx " title="Register"  description="Regestering new user"/>
+    <siteMapNode url="product_aal.aspx " title="Products"/>
+    <siteMapNode url="settings_aal.aspx" title ="Settings"/>
+    <siteMapNode url ="contact_aal.aspx" title ="Contact Us"/>
+  </siteMapNode>
+</siteMap>
